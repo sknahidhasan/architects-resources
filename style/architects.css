@@ -131,6 +131,38 @@ main{
    margin-left: 130px;
    max-width: 530px;
 }
+/* Features you will love & enjoy */
+.features{
+    gap: 140px;
+}
+#text-section-title{
+    border: 5px solid #FF900E;
+  padding-left: 20PX;
+}
+.feature-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(255, 255, 255, 1);
+    margin-bottom: 20px;
+}
+.feature-card .feature-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+#experience-badge{
+    padding: 24px 42px ;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: -100px;
+    margin-top: -100px;
+}
+#experience-year{
+    font-size: 4rem;
+    font-weight: 700;
+}
 /* sponsor-info related styles */
   .sponsor-info{
   max-width: 540px;
